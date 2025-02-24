@@ -87,7 +87,9 @@ Importance: Determines whether the software is ready for deployment by ensuring 
 
 
 #Part2: Introduction to AI and Prompt Engineering
+
 Definition and Importance of Prompt Engineering.
+
 Prompt engineering is the practice of designing and refining inputs (prompts) to effectively communicate with AI models, ensuring accurate, relevant, and high-quality responses. It involves structuring prompts in a way that optimizes the AI’s understanding and output.
 Importance in AI Interactions
 1.	Enhances AI Accuracy – Well-crafted prompts lead to precise and relevant responses.
